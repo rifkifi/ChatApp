@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "173957867342",
+    "firebase_url": "https://chatapp-c9495.firebaseio.com",
+    "project_id": "chatapp-c9495",
+    "storage_bucket": "chatapp-c9495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173957867342:android:c50ae1eec951f6b560201f",
+        "android_client_info": {
+          "package_name": "com.dasar.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173957867342-5ps827aa7ehc134515gc6ve4lkthhhlp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dasar.chatapp",
+            "certificate_hash": "5a8144248a984c25835c5da42d5a45d841a4c671"
+          }
+        },
+        {
+          "client_id": "173957867342-9l0meebpat5g8gb2vpa8n5beadpbvujp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj7QDxETep_A6tzlNzhQRKzSX6JgLzxd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173957867342-9l0meebpat5g8gb2vpa8n5beadpbvujp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
